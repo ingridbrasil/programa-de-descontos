@@ -10,14 +10,11 @@ Este é um site desenvolvido para apresentar o **Club+**, um programa de benefí
 - Formulário de cadastro
 - Botão de voltar ao topo
 
-## 🖼️ Prévia do projeto
-
-![Prévia do site](https://via.placeholder.com/800x400.png?text=Imagem+de+exemplo)
-
 ## 🛠️ Tecnologias utilizadas
 
 - HTML5
 - CSS3
+- JavaScript
 - Font Awesome (ícones)
 - Google Fonts
 
@@ -28,8 +25,8 @@ Este é um site desenvolvido para apresentar o **Club+**, um programa de benefí
 
 ## 📬 Contato
 
-Dúvidas ou sugestões? Fale comigo pelo e-mail: cliente@club.com.br
+Dúvidas ou sugestões? Fale comigo pelo e-mail: ingridbrasil25@gmail.com
 
 ---
 
-Feito com 💚 por [Seu Nome]
+Feito com 💚 por Ingrid Brasil
